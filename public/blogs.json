@@ -1,0 +1,57 @@
+[
+    {
+        "id": 101,
+        "cover_image": "https://i.ibb.co.com/Y2Qcfjs/vertical-shot-happy-korean-woman-medical-mask-holding-flight-tickets-passport-standing-wit-1258-1405.jpg",
+        "title": "The Journey of Code: A Developer's Expedition Through Programming",
+        "author_name": "Alex Johnson",
+        "author_image": "https://i.ibb.co.com/C80sF6T/kitty-cat-kitten-pet-45201.jpg",
+        "post": "Exploring the depths of coding and web development.",
+        "post_date": "2023-09-15",
+        "reading_time": 5,
+        "hashtag": ["coding", "webdevelopment", "tech"]
+    },
+    {
+        "id": 102,
+        "cover_image": "https://i.ibb.co.com/X4nHz79/young-asian-entrepreneur-woman-apron-hand-holding-tablet-list-order-food-74952-2512.jpg",
+        "title": "Frontend Tips: Mastering the Art of CSS, JavaScript, and More",
+        "author_name": "Sara Blake",
+        "author_image": "https://i.ibb.co.com/5cpckKc/pexels-charlesdeluvio-1851164.jpg",
+        "post": "Top 10 tips for mastering front-end development.",
+        "post_date": "2023-09-18",
+        "reading_time": 7,
+        "hashtag": ["frontend", "CSS", "javascript"]
+    },
+    {
+        "id": 103,
+        "cover_image": "https://i.ibb.co.com/Vvy73zQ/abstract-doodle-travel-blog-header-23-2149537327.jpg",
+        "title": "Backend Power: Unlocking the Secrets of APIs and Architectures",
+        "author_name": "Michael Lee",
+        "author_image": "https://i.ibb.co.com/QDTsgcN/pexels-george-desipris-792381.jpg",
+        "post": "A deep dive into backend architectures and APIs.",
+        "post_date": "2023-09-20",
+        "reading_time": 10,
+        "hashtag": ["backend", "API", "database"]
+    },
+    {
+        "id": 104,
+        "cover_image": "https://i.ibb.co.com/RyzyghY/download.png",
+        "title": "React in Action: How React Shapes Modern Web Applications",
+        "author_name": "Linda Davis",
+        "author_image": "https://i.ibb.co.com/3WLFp1b/pexels-pixabay-62289.jpg",
+        "post": "Why React is the go-to library for modern web apps.",
+        "post_date": "2023-09-22",
+        "reading_time": 8,
+        "hashtag": ["React", "JavaScript", "webdevelopment"]
+    },
+    {
+        "id": 105,
+        "cover_image": "https://i.ibb.co.com/tmNtMsF/top-view-ring-binder-23-2149568983.jpg",
+        "title": "CSS Masterclass: Advanced Techniques for Cutting-Edge UI Design",
+        "author_name": "John Smith",
+        "author_image": "https://i.ibb.co.com/C6JZLb6/pexels-pixabay-47547.jpg",
+        "post": "Advanced CSS techniques for modern UI design.",
+        "post_date": "2023-09-25",
+        "reading_time": 6,
+        "hashtag": ["CSS", "design", "frontend"]
+    }
+]
